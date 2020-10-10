@@ -1,7 +1,4 @@
-// This example drives each motor on the Romi forward, then
-// backward.  The yellow user LED is on when a motor should be
-// running forward and off when a motor should be running
-// backward.
+// This Assignment will move the Romi board in a square
 
 #include <Romi32U4.h>
 
